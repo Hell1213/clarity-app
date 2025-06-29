@@ -25,6 +25,7 @@ dist-ssr
 .vercel
 
 .env 
+.env.*
 
 #ignore all markdown files excepts readme.md
 *.md
