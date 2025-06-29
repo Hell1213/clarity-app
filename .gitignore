@@ -23,3 +23,15 @@ dist-ssr
 *.sln
 *.sw?
 .vercel
+
+.env 
+
+#ignore all markdown files excepts readme.md
+*.md
+!README.md
+
+# Backend
+backend/node_modules
+backend/dist
+backend/.env
+backend/.env.*
