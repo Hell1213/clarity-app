@@ -55,4 +55,4 @@ Clarity is an AI-powered wellness app that helps users improve focus and mental 
 
 ---
 
-**Made with ❤️ by Hell1213 and contributors.**
+**Made with ❤️ by Hell1213 .**
